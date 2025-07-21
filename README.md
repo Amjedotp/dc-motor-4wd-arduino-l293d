@@ -123,15 +123,6 @@ void stopMotors() {
   digitalWrite(motor4Pin1, LOW);
   digitalWrite(motor4Pin2, LOW);
 }
-```
-
----
-
-##  Circuit Diagram
-
-```
-![Circuit](circuit_diagram.png)
-```
 
 ---
 
