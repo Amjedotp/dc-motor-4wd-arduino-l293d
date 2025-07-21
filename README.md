@@ -123,7 +123,3 @@ void stopMotors() {
   digitalWrite(motor4Pin1, LOW);
   digitalWrite(motor4Pin2, LOW);
 }
-
----
-
-## 👨‍💻 Designed and Programmed by: **Amjad**
